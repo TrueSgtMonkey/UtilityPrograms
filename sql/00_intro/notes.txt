@@ -1,0 +1,8 @@
+RELATIONAL DATABASE
+Represents a collection of related 2D tables.
+* Similar to an Excel spreadsheet.
+* Each table has columns with all of the data being rows.
+    - So, when we create a table in SQL, we are essentially making the header for the table.
+
+DMV, for instance would have tables that contain rows for all of their drivers.
+* Then, there would be columns like ID, make/model, wheel #, doors #, and type
