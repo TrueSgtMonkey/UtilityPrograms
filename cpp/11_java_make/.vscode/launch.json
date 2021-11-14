@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/codythompson/Desktop/progs/UtilityPrograms/cpp/11_java_make",
+      "environment": [],
+      "program": "/Users/codythompson/Desktop/progs/UtilityPrograms/cpp/11_java_make/javamake",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": true
+    }
+  ]
+}

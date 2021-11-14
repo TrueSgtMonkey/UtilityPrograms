@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/codythompson/Desktop/progs/UtilityPrograms/java/01_java_prac/StringVec.h
+iostream
+-
+
+/Users/codythompson/Desktop/progs/UtilityPrograms/java/01_java_prac/System.h
+iostream
+-
+stdlib.h
+-
+
+/Users/codythompson/Desktop/progs/UtilityPrograms/java/01_java_prac/main.cpp
+iostream
+-
+fstream
+-
+StringVec.h
+/Users/codythompson/Desktop/progs/UtilityPrograms/java/01_java_prac/StringVec.h
+System.h
+/Users/codythompson/Desktop/progs/UtilityPrograms/java/01_java_prac/System.h
+
